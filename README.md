@@ -67,10 +67,16 @@ This repository contains Homebrew distribution metadata only.
 The Jack Meow application and its source code are proprietary and are not
 distributed from this repository.
 
-## License / Copyright
+## License
 
-Jack Meow is proprietary software.
-Copyright © 2026 Sachin Chavan. All rights reserved.
+The Homebrew tap metadata in this repository is licensed under the MIT License.
+See [LICENSE](LICENSE).
+
+Jack Meow itself is proprietary software. Neither its binaries nor its application
+source code are licensed under the MIT License. The Jack Meow application source
+code is not distributed from this repository. Its proprietary license is unchanged.
+
+Jack Meow application: Copyright © 2026 Sachin Chavan. All rights reserved.
 
 ## Links
 
